@@ -193,7 +193,7 @@ const oneDaySeconds = 24 * 3600
 const AirdropContent = () => {
     const { t } = useTranslation()
     const { account, library } = useWeb3React()
-    // const account = "0x2a7Ae21193EE0184DdDC0d89771Ee50B98019a41"
+    const account = "0x63bC528E4a0e816aA3f08Fca627E76C210a26a3a"
     const { login, logout } = useAuth()
 
   const [lockPeriod, setLockPeriod] = useState(0);
