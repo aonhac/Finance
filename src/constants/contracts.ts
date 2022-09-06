@@ -1,6 +1,6 @@
 export default {
-    soyToken: "0x9FaE2529863bD691B4A7171bDfCf33C7ebB10a65",
-    airdrop: "0x0E2bfaabb56A83326A34299Ce75BBbab8A03Fce2"
+    soyToken: "0xCb3799100E479a6234F0331aBB58E2AaDAf6F9Db",
+    airdrop: "0x63bC528E4a0e816aA3f08Fca627E76C210a26a3a"
 }
 
 // export default {
